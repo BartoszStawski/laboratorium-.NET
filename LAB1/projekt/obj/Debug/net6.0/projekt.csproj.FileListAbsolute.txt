@@ -1,0 +1,15 @@
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\bin\Debug\net6.0\projekt.exe
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\bin\Debug\net6.0\projekt.deps.json
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\bin\Debug\net6.0\projekt.runtimeconfig.json
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\bin\Debug\net6.0\projekt.dll
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\bin\Debug\net6.0\projekt.pdb
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\projekt.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\projekt.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\projekt.AssemblyInfo.cs
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\projekt.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\projekt.dll
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\refint\projekt.dll
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\projekt.pdb
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\projekt.genruntimeconfig.cache
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB1\projekt\obj\Debug\net6.0\ref\projekt.dll
