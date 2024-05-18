@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pvEy2qm9qFGTvYnL2pvvsiS6E9Bjg90CrXxtKqFZ6dD6UQYvppmHaB8sjldW+7aPLQFLEudnLCB7hynrcf5hCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barte\\Documents\\wsb\\4 sem\\.NET\\LAB2\\Zadanie1\\Zadanie1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barte\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
