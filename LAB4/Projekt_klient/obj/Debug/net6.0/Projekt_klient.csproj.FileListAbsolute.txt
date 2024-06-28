@@ -1,0 +1,17 @@
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\bin\Debug\net6.0\Projekt_klient.exe
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\bin\Debug\net6.0\Projekt_klient.deps.json
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\bin\Debug\net6.0\Projekt_klient.runtimeconfig.json
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\bin\Debug\net6.0\Projekt_klient.dll
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\bin\Debug\net6.0\Projekt_klient.pdb
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\Projekt_klient.csproj.AssemblyReference.cache
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\Projekt_klient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\Projekt_klient.AssemblyInfoInputs.cache
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\Projekt_klient.AssemblyInfo.cs
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\Projekt_klient.csproj.CoreCompileInputs.cache
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\Projekt_klient.csproj.CopyComplete
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\Projekt_klient.dll
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\refint\Projekt_klient.dll
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\Projekt_klient.pdb
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\Projekt_klient.genruntimeconfig.cache
+C:\Users\barte\Documents\wsb\4 sem\.NET\LAB4\Projekt_klient\obj\Debug\net6.0\ref\Projekt_klient.dll
